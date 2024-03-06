@@ -2,4 +2,4 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=473CF7&random=false&width=435&lines=Telegam-bots+in+development" alt="Typing SVG" /></a>
 
-![Snake animation](https://github.com/Freshblood1121/Freshblood1121/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Freshblood1121/Freshblood1121/blob/output/github-contribution-grid-snake.gif)

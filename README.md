@@ -4,10 +4,7 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/zPWPYys/cosmos.gif" width="150"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/zPWPYys/cosmos.gif" width="150"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/zPWPYys/cosmos.gif" width="150"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/zPWPYys/cosmos.gif" width="150"></a>
 <a href="https://ibb.co/VjwBfwR"><img src=".github/workflows/it`sme.png" alt="wow" border="0"></a>
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/zPWPYys/cosmos.gif" width="150"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/zPWPYys/cosmos.gif" width="150"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/zPWPYys/cosmos.gif" width="150"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/zPWPYys/cosmos.gif" width="150"></a>
